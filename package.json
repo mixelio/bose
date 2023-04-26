@@ -41,7 +41,7 @@
   "mateAcademy": {
     "projectType": "layout",
     "linters": {
-      "ben": false
+      "bem": false
     }
   },
   "dependencies": {}
